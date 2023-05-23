@@ -1,0 +1,17 @@
+﻿{
+    "dbName": "node-mssql-crud-api",
+    "dbConfig": {
+        "server": "DESKTOP-06J9NI6",
+        "options": {
+            "port": 1433,
+            "trustServerCertificate": true
+        },
+        "authentication": {
+            "type": "default",
+            "options": {
+                "userName": "sa",
+                "password": "anan1234"
+            }
+        }
+    }
+}
